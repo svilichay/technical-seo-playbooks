@@ -62,5 +62,7 @@ A framework for managing large-scale website migrations while protecting organic
 - Screaming Frog
 - Google Search Console
 - GA4
-- Ahrefs / Semrush
+- Adobe Analytics
+- Ahrefs
+- Semrush
 - Log file analysis tools
