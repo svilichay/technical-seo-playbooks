@@ -34,11 +34,11 @@ Best practices for managing crawl budgets, canonicalization, and indexation sign
 
 ## Example Playbooks
 
-- Enterprise SEO Migration Checklist
-- Structured Data Deployment Guide
-- Technical SEO Audit Framework
-- AI Search Optimization Playbook
-- Internal Linking Architecture Framework
+- [Enterprise SEO Migration Checklist](enterprise-seo-migration-checklist.md)
+- [Structured Data Implementation Guide](structured-data-implementation-guide.md)
+- [Technical SEO Audit Framework](technical-seo-audit-framework.md)
+- [AI Search Optimization Playbook](ai-search-optimization-playbook.md)
+- [Internal Linking Architecture Framework](internal-linking-architecture-framework.md)
 
 ---
 
