@@ -1,113 +1,110 @@
-# Technical SEO Playbooks
+Technical SEO playbooks and implementation examples for enterprise websites.
 
-Frameworks and implementation guides for scalable search optimization across enterprise websites, covering technical SEO, structured data, internal linking architecture, and AI-driven discovery systems.
-
-These playbooks document repeatable approaches used to support organic growth across large digital platforms.
-
----
-
-## Core Technical SEO Frameworks
-
-- [Enterprise SEO Migration Checklist](enterprise-seo-migration-checklist.md)
-- [Technical SEO Audit Framework](technical-seo-audit-framework.md)
-- [Internal Linking Architecture Framework](internal-linking-architecture-framework.md)
-- [Structured Data Implementation Guide](structured-data-implementation-guide.md)
+Includes frameworks for:
+• AI search optimization
+• entity and knowledge graph SEO
+• technical SEO infrastructure
+• site migrations
+• structured data systems
+• programmatic SEO
 
 ---
 
-## AI Search & AEO Frameworks
+## What This Repository Covers
 
-- [AI Search Optimization Playbook](ai-search-optimization-playbook.md)
-- [Entity Optimization Framework](entity-optimization-framework.md)
+These playbooks demonstrate how technical SEO systems are designed, documented, and scaled across large organizations.
 
----
+Topics include:
 
-## Governance & Scaling SEO
-
-- [SEO Governance Framework](seo-governance-framework.md)
-
----
-
-## Topics Covered
-
-This repository includes frameworks related to:
-
-- Technical SEO audits  
-- Enterprise site migrations  
-- Crawl and indexation optimization  
-- Structured data implementation  
-- Internal linking architecture  
-- AI search optimization (AEO / GEO)  
-- Entity-based SEO  
-- SEO governance for large organizations  
-
----
-
-## How These Playbooks Are Used
-
-These frameworks are designed to support collaboration between SEO teams, engineering teams, and product teams.
-
-Typical use cases include:
-
-- Planning enterprise website migrations  
-- Conducting technical SEO audits  
-- Implementing structured data at scale  
-- Designing internal linking systems  
-- Optimizing content for AI discovery  
-- Governing SEO implementation across large organizations  
-
-The playbooks are designed to be adaptable across different CMS platforms and engineering environments.
+- Technical SEO audits
+- Enterprise site migrations
+- Redirect mapping and governance
+- Structured data implementation
+- Entity and knowledge graph optimization
+- Internal linking architecture
+- Programmatic SEO page templates
+- AI search optimization frameworks
+- SEO governance and operational models
 
 ---
 
 ## Repository Structure
 
+```
+
 technical-seo-playbooks
+│
+├── examples
+│   ├── internal-linking-architecture-example.md
+│   ├── migration-redirect-map-example.md
+│   ├── programmatic-seo-page-template.md
+│   ├── schema-jsonld-example.md
+│   ├── entity-knowledge-graph-example.md
+│
+├── ai-search-optimization-playbook.md
+├── enterprise-seo-migration-checklist.md
+├── entity-optimization-framework.md
+├── internal-linking-architecture-framework.md
+├── seo-governance-framework.md
+├── structured-data-implementation-guide.md
+├── technical-seo-audit-framework.md
 
-- enterprise-seo-migration-checklist.md  
-- technical-seo-audit-framework.md  
-- internal-linking-architecture-framework.md  
-- structured-data-implementation-guide.md  
-- ai-search-optimization-playbook.md  
-- entity-optimization-framework.md  
-- seo-governance-framework.md  
+```
 
-Each playbook documents a repeatable framework used to plan, implement, and scale search optimization across enterprise environments.
+---
+
+## Why These Playbooks Matter
+
+Modern search visibility depends on more than rankings.
+
+Search engines and AI systems increasingly rely on:
+
+- structured data
+- entity relationships
+- topic clusters
+- internal linking architecture
+- crawl efficiency
+- knowledge graph connections
+
+These playbooks demonstrate how SEO teams operationalize those systems at scale.
+
+---
+
+## Key Areas
+
+### AI Search Optimization
+Frameworks for improving visibility in AI-driven search systems, including LLM citation patterns and semantic search structures.
+
+### Entity Optimization
+Documentation on how organizations, products, and topics connect within knowledge graphs using structured data and entity relationships.
+
+### Technical SEO Infrastructure
+Guides for crawl optimization, internal linking architecture, and large-scale site governance.
+
+### Enterprise Site Migrations
+Best practices for redirect mapping, index preservation, and post-migration monitoring.
+
+### Programmatic SEO
+Templates for scalable page creation while maintaining quality and index control.
 
 ---
 
 ## Intended Audience
 
-These playbooks are designed for:
+This repository is designed for:
 
-- Technical SEO specialists  
-- Growth engineers  
-- Web engineering teams  
-- Product managers responsible for website platforms  
-- Marketing teams implementing search optimization strategies  
-
----
-
-## Purpose
-
-The goal of this repository is to document scalable approaches to search optimization that support engineering teams, product teams, and marketing organizations.
-
-These frameworks help teams implement SEO best practices consistently across large websites and complex digital ecosystems.
+- Technical SEO leaders
+- SEO platform teams
+- Growth engineers
+- marketing engineering teams
+- enterprise web teams
 
 ---
 
-## Example Implementations
-
-This repository includes example implementations for common technical SEO systems:
-
-• Schema JSON-LD structured data implementation  
-• Enterprise migration redirect mapping  
-• Internal linking architecture framework  
-• Programmatic SEO page template example
-
----
 ## Author
 
 Maintained by **Swan Vilichay**
 
-Global SEO & AEO leader focused on scalable search infrastructure, technical SEO strategy, and AI discovery optimization.
+Global SEO & AEO leader specializing in enterprise technical SEO, search infrastructure, and AI discovery optimization.
+
+This repository contains frameworks and playbooks used for scaling SEO across large organizations, complex websites, and modern AI-driven search environments.
