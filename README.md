@@ -96,6 +96,15 @@ These frameworks help teams implement SEO best practices consistently across lar
 
 ---
 
+## Examples
+
+Example implementations included in this repository:
+
+- Schema JSON-LD implementation example
+- SEO migration redirect mapping example
+- Internal linking architecture framework
+
+---
 ## Author
 
 Maintained by **Swan Vilichay**
